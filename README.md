@@ -1,4 +1,4 @@
-# 👋 Hi, My name is HsingYu Hsu (徐幸妤)
+# 👋 Hi, My name is HsingYu Hsu
 
 ## 課程專案
 * [智慧籃球運動](https://github.com/HsuHsingYu/Basketball_Scoring_Detection) (智慧物聯網與實作)
