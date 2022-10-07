@@ -1,7 +1,6 @@
 
 ![Hi there👋 My name is HsingYu Hsu](https://user-images.githubusercontent.com/92151140/194595102-61c10200-62e1-491e-8ee1-f703f3b4fbda.gif)
-<h1 align="center">Hi 👋, I'm HsingYu Hsu</h1>
-<h3 align="center">I major in computer science.</h3>
+I major in computer science.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hsuhsingyu&label=Profile%20views&color=0e75b6&style=flat" alt="hsuhsingyu" /> </p>
 
