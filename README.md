@@ -25,7 +25,7 @@ I major in computer science.
 * [Shell](https://github.com/HsuHsingYu/shell) (作業系統)
 * [Bounded-buffer-problem](https://github.com/HsuHsingYu/Bounded-buffer-problem) (作業系統)
 * [Assembler](https://github.com/HsuHsingYu/2-pass-assembler) (組合語言與系統程式)
-* [COVID-19預測]() (深度學習概論) (連結待補)
+* [COVID-19預測](https://github.com/HsuHsingYu/COVID-19) (深度學習概論)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hsuhsingyu&show_icons=true&locale=en" alt="hsuhsingyu" /></p>
 
