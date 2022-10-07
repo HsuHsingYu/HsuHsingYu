@@ -1,6 +1,4 @@
 # 👋 Hi there, My name is HsingYu Hsu
-![簡報1](https://user-images.githubusercontent.com/92151140/194591052-4f97de11-c4d3-47f9-bfee-e103535b18fb.gif)
-
 ## 課程專案
 * [智慧籃球運動](https://github.com/HsuHsingYu/Basketball_Scoring_Detection) (智慧物聯網與實作)
 * [純量子電路合成](https://github.com/HsuHsingYu/Quantum-Reversible-Circuit-Synthesis) (量子計算與通訊)  
