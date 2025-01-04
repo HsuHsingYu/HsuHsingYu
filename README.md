@@ -4,7 +4,7 @@ I major in computer science.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hsuhsingyu&label=Profile%20views&color=0e75b6&style=flat" alt="hsuhsingyu" /> </p>
 
-- 🌱 I’m currently learning **AI、IR、Blockchain、Quantum Computation and Communication、Heuristic Algorithm、AI、IR、Blockchain**
+- 🌱 I’m currently learning **Quantum Computation and Communication、Heuristic Algorithm、AI、IR、Blockchain**
 
 <p align="left">
 </p>
